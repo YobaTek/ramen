@@ -8,7 +8,7 @@
     "birth": "1995",
     "death": "",
     "links": {
-      "Официальный сайт": "https://azbooka.ru/",
+      "Официальный сайт": "https://azbooka.ru",
       "Вконтакте": "https://vk.ru/azbooka_graphic_novels"
     }
   },
@@ -35,7 +35,7 @@
     "birth": "2007",
     "death": "",
     "links": {
-      "Официальный сайт": "https://reanimedia.ru/",
+      "Официальный сайт": "https://reanimedia.ru",
       "Вконтакте": "https://vk.ru/re_animedia",
       "Телеграм": "https://t.me/reanimedia_official"
     }
@@ -109,5 +109,19 @@
     "birth": "",
     "death": "",
     "links": {}
+  },
+  {
+    "id": "17vjw3hu",
+    "name": "МИФ",
+    "aliases": [],
+    "photo": "publishers/mif.webp",
+    "bio": "Крупное российское издательство, основанное Игорем Манном, Михаилом Ивановым и Михаилом Фербером. Начинало с деловой литературы, но выросло в многопрофильный проект, выпускающий книги по саморазвитию, психологии, художественную прозу, комиксы и детские издания с фирменным оформлением.",
+    "birth": "2005",
+    "death": "",
+    "links": {
+      "Сайт": "https://www.mann-ivanov-ferber.ru",
+      "Вконтакте": "https://vk.ru/mifbooks",
+      "Телеграм": "https://telegram.me/mifbooks"
+    }
   }
 ]
