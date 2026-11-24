@@ -29845,5 +29845,30 @@
     "status": "",
     "oneshot": true,
     "binding": "Твёрдый"
+  },
+  {
+    "id": "17vrn7pp",
+    "t": "КОТИКИ: манга-руководство по воспитанию",
+    "series": "",
+    "a": [
+      "Тиэ Моги",
+      "Нитихо Хигути"
+    ],
+    "g": [
+      "Повседневность"
+    ],
+    "v": 0,
+    "p": 216,
+    "y": "2026",
+    "isbn": "9785042282935",
+    "pub": "Комильфо",
+    "c": "covers/kotiki-manga-rukovodstvo-po-vospitaniyu.webp",
+    "desc": "",
+    "audience": "Дзёсэй",
+    "type": "Манга",
+    "ageRating": "16+",
+    "status": "",
+    "oneshot": true,
+    "binding": "Мягкий"
   }
 ]
